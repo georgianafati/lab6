@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "John Doe",
+    "post": "Manager",
+    "dataAngajarii": ["2023", "01", "15"],
+    "salariu": 3500
+  },
+  {
+    "nume": "Jane Smith",
+    "post": "Director of Sales",
+    "dataAngajarii": ["2022", "11", "20"],
+    "salariu": 4200
+  },
+  {
+    "nume": "Alice Johnson",
+    "post": "Software Developer",
+    "dataAngajarii": ["2023", "03", "10"],
+    "salariu": 3000
+  },
+  {
+    "nume": "Bob Brown",
+    "post": "Team Leader",
+    "dataAngajarii": ["2022", "09", "05"],
+    "salariu": 2800
+  },
+  {
+    "nume": "Eva Green",
+    "post": "HR Manager",
+    "dataAngajarii": ["2023", "07", "25"],
+    "salariu": 3200
+  }
+]
